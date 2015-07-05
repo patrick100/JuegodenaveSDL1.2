@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1417027619 source:c:\users\jefri-vita\desktop\nodo codeblocks\mis proyectos\mivideojuego\main.cpp
+	"SDL/SDL.h"
+	"Juego.h"
+	"Nave.h"
+	"bala.h"
+	"Meteoro.h"
+
+1417027899 source:c:\users\jefri-vita\desktop\nodo codeblocks\mis proyectos\mivideojuego\src\juego.cpp
+	"Juego.h"
+	"SDL/SDL.h"
+
+1417027575 c:\users\jefri-vita\desktop\nodo codeblocks\mis proyectos\mivideojuego\include\juego.h
+	"SDL/SDL.h"
+
+1417013643 source:c:\users\jefri-vita\desktop\nodo codeblocks\mis proyectos\mivideojuego\src\nave.cpp
+	"Nave.h"
+
+1417007680 c:\users\jefri-vita\desktop\nodo codeblocks\mis proyectos\mivideojuego\include\nave.h
+	"Juego.h"
+	<SDL/SDL.h>
+
+1417027189 source:c:\users\jefri-vita\desktop\nodo codeblocks\mis proyectos\mivideojuego\src\bala.cpp
+	"bala.h"
+
+1417007680 c:\users\jefri-vita\desktop\nodo codeblocks\mis proyectos\mivideojuego\include\bala.h
+	<SDL/SDL.h>
+	<Nave.h>
+
+1417007680 c:\users\jefri-vita\desktop\nodo codeblocks\mis proyectos\mivideojuego\include\meteoro.h
+	<Juego.h>
+	<stdlib.h>
+	<time.h>
+
+1417043885 source:c:\users\jefri-vita\desktop\nodo codeblocks\mis proyectos\mivideojuego\src\meteoro.cpp
+	"Meteoro.h"
+
+1418079143 source:c:\users\psvita\desktop\mivideojuego\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_mixer.h"
+	"Juego.h"
+	"Nave.h"
+	"bala.h"
+	"Meteoro.h"
+	"ListaEnlazada.h"
+
+1418051758 c:\users\psvita\desktop\mivideojuego\include\juego.h
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+
+1417649570 c:\users\psvita\desktop\mivideojuego\include\nave.h
+	"Juego.h"
+	<SDL/SDL.h>
+
+1417636701 c:\users\psvita\desktop\mivideojuego\include\bala.h
+	<SDL/SDL.h>
+	<Nave.h>
+
+1417007680 c:\users\psvita\desktop\mivideojuego\include\meteoro.h
+	<Juego.h>
+	<stdlib.h>
+	<time.h>
+
+1417638575 source:c:\users\psvita\desktop\mivideojuego\src\bala.cpp
+	"bala.h"
+
+1418052063 source:c:\users\psvita\desktop\mivideojuego\src\juego.cpp
+	"Juego.h"
+	"SDL/SDL.h"
+
+1417897416 source:c:\users\psvita\desktop\mivideojuego\src\meteoro.cpp
+	"Meteoro.h"
+
+1418080327 source:c:\users\psvita\desktop\mivideojuego\src\nave.cpp
+	"Nave.h"
+
+1417896885 source:c:\users\psvita\desktop\mivideojuego\src\listaenlazada.cpp
+	"ListaEnlazada.h"
+
+1417896836 c:\users\psvita\desktop\mivideojuego\include\listaenlazada.h
+	"bala.h"
+	"Meteoro.h"
+
+1418079144 source:d:\codeblock c++\mivideojuego\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_mixer.h"
+	"Juego.h"
+	"Nave.h"
+	"bala.h"
+	"Meteoro.h"
+	"ListaEnlazada.h"
+
+1425689292 d:\codeblock c++\mivideojuego\include\juego.h
+	"SDL/SDL.h"
+
+1417649572 d:\codeblock c++\mivideojuego\include\nave.h
+	"Juego.h"
+	<SDL/SDL.h>
+
+1417636702 d:\codeblock c++\mivideojuego\include\bala.h
+	<SDL/SDL.h>
+	<Nave.h>
+
+1417007682 d:\codeblock c++\mivideojuego\include\meteoro.h
+	<Juego.h>
+	<stdlib.h>
+	<time.h>
+
+1417896838 d:\codeblock c++\mivideojuego\include\listaenlazada.h
+	"bala.h"
+	"Meteoro.h"
+
+1417638576 source:d:\codeblock c++\mivideojuego\src\bala.cpp
+	"bala.h"
+
+1418052064 source:d:\codeblock c++\mivideojuego\src\juego.cpp
+	"Juego.h"
+	"SDL/SDL.h"
+
+1417896886 source:d:\codeblock c++\mivideojuego\src\listaenlazada.cpp
+	"ListaEnlazada.h"
+
+1417897418 source:d:\codeblock c++\mivideojuego\src\meteoro.cpp
+	"Meteoro.h"
+
+1418080328 source:d:\codeblock c++\mivideojuego\src\nave.cpp
+	"Nave.h"
+
